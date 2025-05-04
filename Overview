@@ -1,0 +1,114 @@
+# Industrial Control System Overview
+
+## Objectives
+
+- Describe basic Industrial Control Systems
+- Discuss Cyber risks to Industrial Control systems
+- Discuss the process Control Exploits
+
+### Basics of ICS
+
+Industrial Control Systems or ICS are the chief components of mordern industrial operation providing the framework for monitoring and controlling various processes within industrial settings. These systems are designed to manage critical infrastructure such as power plants, manufaturing facilities, water treatment plants and more.
+
+#### Examples
+
+##### SCADA
+
+Supervisory Control and Data Accusition (SCADA) systems are used to remotely monitor and control industrial processes and utilize sensors to communicate with PLCs(Programmable Logic Contollers), and HMIs (Human machine Interfaces) to gather data and provide real-time insights into operational status.
+
+##### DCS 
+
+Distributed Control Systems (DCS) which are commonly employed in large-scale industrial processes such as oil refineries and chimical plants. DCS integrates multiple control loops for the centrelized control fo various processes, enhancing efficieny and enabling coordinated operations.
+
+##### PCS
+
+Process Control Systems (PCS) are simialr to DCS butr are often more customized to specific industrial applications, providing precise control over individual processes.
+
+##### EMS 
+
+Energy management Systems (EMS) play a crucial role in the energy secto, facilitaing the monitoring and optimization of energy generation, transmission, and distribution. These systems enable utlities to balance supply and demand efficiently while maintaining grif stability.
+
+##### AS
+
+Automation System (AS) are utilized across industries for streamlining processes and tasks through the integration of hardware and software components, enhancing efficiency and productivity in applications such as manufacturing, logistics, agriculture, and building management.
+
+##### SIS
+
+Safety instrumented Systems (SIS) are a vital component of ICS reliability and resilience, designed to mitigate risks and prevent sensors and actuators to detect hazardous conditions and initiate emergency shutdown procedured when necessary, ensuring the safety of personnel and equiment.
+
+### Embedded Systems
+
+Embedded systems are specialized computing devices designed to perform specific computing funcations within larger systems. often with real-time constraints and limited resources. these systems are typically embdedded into devcies ort equipment to control and monitor variours operations.
+
+#### Examples of Embedded Systems
+
+##### Microcontrollers
+
+Small. self-contained computing devices that integrate a processor, memory, and peripherals on a single chip commonly used in appliances, consumer electronics, and automation applications for tasks such as controlling displays, sensors and monitors.
+
+##### Medical Devices
+
+Pacemakers, insulins pumps, and patient monitoring systems to perform critical funcations like regulating bodily functions, deliverying medication, and collecting patient data, and many others.
+
+#### Examples of what are not Embedded Systems
+
+##### General-Purpose Computers
+
+these are designed for general computing tasks and are not dedicated to specific funcations within larger systems.
+
+##### Smartphones
+
+They contain embedded systems for funcations like cellular communication, multimedia playback, and sensor management; however, they are not considered embedded systems themselves due to their multifuncationality and general-purpose computing capabilities.
+
+##### Web Servers
+
+They are designed to handle a wide range of tasks related tro serving content over Internet, rather thanbeing dedicated to a specific funcation within a device or equipment.
+
+### ICS Field Controllers
+
+One of the centeral examples of embedded devices in ICS are the Field Controllers, such as programmable Logic Conrollers (PLCs), Remote terminal United (RTUs), Distributed Control System Controllers (DCS), and Intelligent Electronic Devices (IEDs).
+
+#### Examples of embedded systems in field controllers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
